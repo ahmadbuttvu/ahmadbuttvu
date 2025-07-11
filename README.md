@@ -17,10 +17,15 @@
 ---
 
 ## 🔧 Current Projects
-
+- 🔍 **Simulated Dark Web Monitoring Tool for Data Leak Detection** (CS619 Final Year Project)
 - 🔐 Secure File Vault (Python encryption tool)
 - 🧠 Learning Roadmap: Cybersecurity & Python automation
-- 📘 CS619 Final Year Project (Coming soon!)
+
+- ### 🧰 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
