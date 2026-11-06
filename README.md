@@ -55,13 +55,16 @@
 - 🔐 **Introduction to Cybersecurity** — *Cisco Networking Academy*
 - 💻 **CPA: Programming Essentials in C++** — *Cisco Networking Academy*
 - 🖧 **Getting Started with Cisco Packet Tracer** — *Cisco Networking Academy*
+- 🏆 **TryHackMe Cybersecurity Training & CTF Labs** — *Active Player & Modules (Complimentary, Speed Chatting, Tony the Tiger, Beach Bar, Enumeration)*
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadbuttvu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbuttvu&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbuttvu&show_icons=true&theme=radical" alt="Ahmad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbuttvu&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
